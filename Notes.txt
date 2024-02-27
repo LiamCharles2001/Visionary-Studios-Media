@@ -2,3 +2,4 @@ TODO:
 -Tiktok link not added
 -Alt tags need to be completed
 -Look into preview images
+-Brand Colors
