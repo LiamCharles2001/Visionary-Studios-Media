@@ -1,13 +1,6 @@
- /*
-        <nav className="bg-gray-800">
-            <div className="container">
-                <div className="logo">
-                    <Link href="/">Home</Link>
-                </div>
-                <div className="links nav-buttons">
-                    <Link href="/about">About</Link>
-                    <Link href="/about">Store</Link>
-                    <Link href="/about">Contact</Link>
-                </div>
-            </div>
-        </nav>*/
+Todo: make nav sticky
+
+Plan sections
+Make nice looking
+
+Colors: Sunset
