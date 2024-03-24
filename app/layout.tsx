@@ -18,6 +18,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script src="../path/to/flowbite/dist/flowbite.min.js"></script>
+
+        {/*REMOVE THIS */}
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"></script>
+
+        
+      </head>
       <body className={inter.className}>
         <Nav />
         <main>{children}</main>

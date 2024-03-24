@@ -94,3 +94,47 @@ Schedule A Call
         <a className="btn">Button</a>
       </div>
     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    import Image from "next/image";
+
+export function Landing() {
+    return (
+      <section className="hero min-h-screen bg-[url('/jpg/stock/bg-landing.jpg')]">
+        <div className="hero-overlay bg-opacity-60"></div>
+        <div className="hero-content text-center text-neutral-content">
+          <div className="max-w-md">
+            <Image
+              className="mb-5"
+              src="/svg/White logo - no background.svg"
+              alt="Artisan Avenue"
+              width="500"
+              height="500"
+              priority
+            ></Image>
+            <button className="btn btn-primary">Learn More</button>
+          </div>
+        </div>
+      </section>
+    );
+  }
