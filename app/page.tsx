@@ -14,9 +14,10 @@ export default function Home() {
     <Hero/>
     <SocialProofSection/>
     <Portfolio/>
-    <CTASection/>
+    
     <ServiceSection/>
     <TestimonialSection/>
+    <CTASection/>
     <ContactSection/>
     <Footer/>
     </>
