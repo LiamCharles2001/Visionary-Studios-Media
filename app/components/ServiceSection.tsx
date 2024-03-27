@@ -1,6 +1,6 @@
 const ServiceSection = () => {
     return (
-        {/*https://flowbite.com/blocks/marketing/feature/*/}
+        <div>SERVICES </div>
     );
   };
   
