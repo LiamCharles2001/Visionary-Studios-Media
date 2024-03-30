@@ -20,15 +20,16 @@ export default function RootLayout({
     <html lang="en">
       <head>
         {/*REMOVE THIS */}
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" />
+        <link
+          href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css"
+          rel="stylesheet"
+        />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"></script>
-
-        
       </head>
       <body className={inter.className}>
         <div className="dark">
-        <Header />
-        <main>{children}</main>
+          <Header />
+          <main>{children}</main>
         </div>
       </body>
     </html>
