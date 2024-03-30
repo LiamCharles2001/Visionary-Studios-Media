@@ -11,7 +11,7 @@ const TestimonialSection = () => {
       <div className="grid gap-8 mb-6 lg:mb-16 md:grid-cols-2">
           <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <a href="#">
-                  <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="\assets\portfolio_1.jpg" alt="Bonnie Avatar"/>
+                  <Image className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" width={300} height={300} src="/assets/portfolio_1.jpg" alt="Bonnie Avatar"/>
               </a>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -45,7 +45,7 @@ const TestimonialSection = () => {
           </div> 
           <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <a href="#">
-                  <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="\assets\portfolio_2.jpg" alt="Jese Avatar"/>
+                  <Image className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" width={300} height={300} src="/assets/portfolio_2.jpg" alt="Jese Avatar"/>
               </a>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -79,7 +79,7 @@ const TestimonialSection = () => {
           </div> 
           <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <a href="#">
-                  <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="\assets\portfolio_3.jpg" alt="Michael Avatar"/>
+                  <Image className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" width={300} height={300} src="/assets/portfolio_3.jpg" alt="Michael Avatar"/>
               </a>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -113,7 +113,7 @@ const TestimonialSection = () => {
           </div> 
           <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <a href="#">
-                  <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="\assets\portfolio_5.jpg" alt="Sofia Avatar"/>
+                  <Image className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" width={300} height={300} src="/assets/portfolio_5.jpg" alt="Sofia Avatar"/>
               </a>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
