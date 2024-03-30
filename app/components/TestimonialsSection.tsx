@@ -63,7 +63,7 @@ const TestimonialSection = () => {
                 className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"
                 width={300}
                 height={300}
-                src="/assets/portfolio_2.jpg"
+                src="/assets/portfolio_3.jpg"
                 alt="Kelly Wakasa"
               />
             </a>
