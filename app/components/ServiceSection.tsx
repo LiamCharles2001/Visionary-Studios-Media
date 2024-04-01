@@ -18,16 +18,20 @@ export default function ServiceSection() {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div>
-            <h3 className="mb-2 text-xl font-bold dark:text-white">Long Form Content:</h3>
-            <p className="text-gray-500 dark:text-gray-400">
-              We offer editing on any video such as Vlogs, Educational, Reviews,
-              Challenges etc. You send us your footage and we will create a
-              captivating video.
-            </p>
+          <div className="flex items-center">
+      <h3 className="mb-2 text-xl font-bold dark:text-white">Long Form Content:</h3>
+      <p className="flex-1 text-gray-500 dark:text-gray-400">
+        We offer editing on any video such as Vlogs, Educational, Reviews, Challenges etc. You send us your footage and
+        we will create a captivating video.
+      </p>
+      <svg className="w-5 h-5 ml-2 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+        <path d="M10 12a2 2 0 100-4 2 2 0 000 4z" fillRule="evenodd" />
+        <path clipRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm0-2a6 6 0 100-12 6 6 0 000 12z" />
+      </svg>
+    </div>
             <YoutubeIcon className="w-8 h-8 mb-2" />
             <div className="grid grid-cols-2 gap-4 mt-4">
               <a className="block" href="#">
-                <p>Video Title 1</p>
                 <iframe
                   width="100%"
                   height="200"
@@ -38,7 +42,6 @@ export default function ServiceSection() {
                 ></iframe>
               </a>
               <a className="block" href="#">
-                <p>Video Title 2</p>
                 <iframe
                   width="100%"
                   height="200"
@@ -49,7 +52,6 @@ export default function ServiceSection() {
                 ></iframe>
               </a>
               <a className="block" href="#">
-                <p>Video Title 3</p>
                 <iframe
                   width="100%"
                   height="200"
@@ -60,7 +62,6 @@ export default function ServiceSection() {
                 ></iframe>
               </a>
               <a className="block" href="#">
-                <p>Video Title 4</p>
                 <iframe
                   width="100%"
                   height="200"
@@ -81,7 +82,6 @@ export default function ServiceSection() {
             <YoutubeIcon className="w-8 h-8 mb-2" />
             <div className="grid grid-cols-2 gap-4 mt-4">
               <a className="block" href="#">
-                <p>Video Title 5</p>
                 <iframe
                   width="100%"
                   height="200"
@@ -90,7 +90,6 @@ export default function ServiceSection() {
                 ></iframe>
               </a>
               <a className="block" href="#">
-                <p>Video Title 6</p>
                 <iframe
                   width="100%"
                   height="200"
@@ -99,7 +98,6 @@ export default function ServiceSection() {
                 ></iframe>
               </a>
               <a className="block" href="#">
-                <p>Video Title 7</p>
                 <iframe
                   width="100%"
                   height="200"
@@ -108,7 +106,6 @@ export default function ServiceSection() {
                 ></iframe>
               </a>
               <a className="block" href="#">
-                <p>Video Title 8</p>
                 <iframe
                   width="100%"
                   height="200"
@@ -127,10 +124,9 @@ export default function ServiceSection() {
           </p>
           <div className="grid grid-cols-2 gap-4 mt-4">
             <a className="block" href="#">
-              <p>Video Title 9</p>
               <iframe
                 width="100%"
-                height="200"
+                height="400"
                 src={
                   "https://www.youtube.com/embed/V4ohNwQSw0k?si=iZ1UGnKsYNkcDqmQ"
                 }
@@ -138,10 +134,9 @@ export default function ServiceSection() {
               ></iframe>
             </a>
             <a className="block" href="#">
-              <p>Video Title 10</p>
               <iframe
                 width="100%"
-                height="200"
+                height="400"
                 src={
                   "https://www.youtube.com/embed/Ip9zoA8g1pg?si=TcB-mdpH6u14SnUJ"
                 }
