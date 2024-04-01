@@ -18,18 +18,34 @@ export default function ServiceSection() {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div>
-          <div className="flex items-center">
-      <h3 className="mb-2 text-xl font-bold dark:text-white">Long Form Content:</h3>
-      <p className="flex-1 text-gray-500 dark:text-gray-400">
-        We offer editing on any video such as Vlogs, Educational, Reviews, Challenges etc. You send us your footage and
-        we will create a captivating video.
-      </p>
-      <svg className="w-5 h-5 ml-2 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-        <path d="M10 12a2 2 0 100-4 2 2 0 000 4z" fillRule="evenodd" />
-        <path clipRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm0-2a6 6 0 100-12 6 6 0 000 12z" />
-      </svg>
-    </div>
-            <YoutubeIcon className="w-8 h-8 mb-2" />
+
+
+
+            <div className="flex items-center">
+            <div className="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900">
+              <svg
+                className="w-5 h-5 text-primary-600 lg:w-6 lg:h-6 dark:text-primary-300"
+                fill="currentColor"
+                viewBox="0 0 16 16"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z" />
+              </svg>
+            </div>
+
+              <h3 className="p-2 mb-2 text-xl font-bold dark:text-white flex-1">
+                Long Form Content:
+              </h3>
+
+
+            </div>
+
+              <p className="text-gray-500 dark:text-gray-400">
+                We offer editing on any video such as Vlogs, Educational,
+                Reviews, Challenges etc. You send us your footage and we will
+                create a captivating video.
+              </p>
+
             <div className="grid grid-cols-2 gap-4 mt-4">
               <a className="block" href="#">
                 <iframe
@@ -74,7 +90,9 @@ export default function ServiceSection() {
             </div>
           </div>
           <div>
-            <h3 className="mb-2 text-xl font-bold dark:text-white">Short Form Content:</h3>
+            <h3 className="mb-2 text-xl font-bold dark:text-white">
+              Short Form Content:
+            </h3>
             <p className="text-gray-500 dark:text-gray-400">
               We can make your TikToks, Shorts, Reels, etc, that are built to
               have the highest retention custom to your liking.
@@ -117,7 +135,9 @@ export default function ServiceSection() {
           </div>
         </div>
         <div className="mt-8">
-          <h3 className="mb-2 text-xl font-bold dark:text-white">Commercial Editing</h3>
+          <h3 className="mb-2 text-xl font-bold dark:text-white">
+            Commercial Editing
+          </h3>
           <p className="text-gray-500 dark:text-gray-400">
             If you need us to edit a promotional video, music video, events
             video, we do it all!
