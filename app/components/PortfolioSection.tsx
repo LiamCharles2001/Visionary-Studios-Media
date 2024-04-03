@@ -101,7 +101,7 @@ const PortfolioSection = () => {
               Video Format
             </h3>
             <p className="text-gray-500 dark:text-gray-400">
-              Long videos ex.Youtube + Short videos Tiktok, Reels******
+              We will edit your Long and Short videos; YouTube, Tiktoks, and anything you needed edited.
             </p>
           </div>
         </div>

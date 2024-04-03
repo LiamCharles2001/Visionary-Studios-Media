@@ -4,14 +4,16 @@ import Footer from "./components/Footer";
 import ContactSection from "./components/ContactSection";
 import ServiceSection from "./components/ServiceSection";
 import TestimonialSection from "./components/TestimonialsSection";
-import SocialProofSection from "./components/SocialProofSection";
 import CTASection from "./components/CTASection";
+import JamesSection from "./components/JamesSection";
 
 export default function Home() {
   return (
     <>
     <Hero/>
-    <SocialProofSection/>
+
+    <JamesSection/>
+
     <Portfolio/>
     
     <ServiceSection/>
