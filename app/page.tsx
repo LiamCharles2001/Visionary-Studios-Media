@@ -1,5 +1,5 @@
 import Hero from "./components/HeroSection";
-import Portfolio from "./components/PortfolioSection";
+import PortfolioSectionRevision from "./components/PortfolioSectionRevision";
 import Footer from "./components/Footer";
 import ContactSection from "./components/ContactSection";
 import ServiceSection from "./components/ServiceSection";
@@ -14,7 +14,7 @@ export default function Home() {
 
     <JamesSection/>
 
-    <Portfolio/>
+    <PortfolioSectionRevision/>
     
     <ServiceSection/>
     <TestimonialSection/>

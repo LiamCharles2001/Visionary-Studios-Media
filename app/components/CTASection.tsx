@@ -16,7 +16,7 @@ const CTASection = () => {
             </div>
         </div>
     </div>
-    <Image objectFit='cover' fill src="/assets/timeline-bottom.jpg" alt="Video Editing Service Logo" className="-z-10 blur-sm"/>
+    <Image objectFit='cover' fill src="/assets/timeline-bottom.jpg" alt="Video Editing Service Logo" className="-z-10 blur-sm brightness-95"/>
 </section>
   );
 };

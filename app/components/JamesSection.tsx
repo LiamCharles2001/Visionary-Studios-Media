@@ -10,13 +10,16 @@ const JamesSection = () => {
           </h2>
           <p className="mb-4">
             I'm a professional Video Editor with currently 73+ million views.
-            Located in the Niagara Region helping businesses with their video
-            needs. You can contact me for
-            <a href="#contact"> a free quote. </a>
-            I've worked with Youtubers and companies to create professionally
-            made commercials and videos.
+            Located in the Niagara Region helping content creators with their
+            video needs.
           </p>
-          <p>***************</p>
+          <p className="mb-4">
+            My team specialize in crafting professional YouTube and TikTok
+            videos. With a dedicated team of skilled editors, we work closely
+            with content creators to bring their vision to life, ensuring every
+            frame tells a compelling story that captivates audiences.
+          </p>
+
           <div className="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
             <a
               href="https://calendly.com/visionarystudiosmedia/30min?month=2024-03"
