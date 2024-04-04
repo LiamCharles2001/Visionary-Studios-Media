@@ -20,6 +20,12 @@ Colors: Sunset
 
 Alt tags
 
+
+
+backdrop-filter backdrop-blur-lg bg-opacity-30
+
+
+
 https://tailwindcolor.com/
 bg-white dark:bg-gray-90
 
