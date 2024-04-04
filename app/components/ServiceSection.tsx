@@ -5,13 +5,13 @@ import { JSX, SVGProps } from "react";
 
 export default function ServiceSection() {
   return (
-    <section className="bg-white dark:bg-gray-900">
+    <section className="bg-white dark:bg-zinc-900">
       <div className="container mx-auto px-4 py-8">
         <div className="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
-          <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+          <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-zinc-900 dark:text-white">
             Video Services
           </h2>
-          <p className="font-light text-gray-500 lg:mb-16 sm:text-xl dark:text-gray-400">
+          <p className="font-light text-zinc-500 lg:mb-16 sm:text-xl dark:text-zinc-400">
             We focus highly on our storytelling and making videos that are
             engaging the entire time!
           </p>
@@ -35,7 +35,7 @@ export default function ServiceSection() {
               </h3>
             </div>
 
-            <p className="text-gray-500 dark:text-gray-400">
+            <p className="text-zinc-500 dark:text-zinc-400">
               We offer editing on any video such as Vlogs, Educational, Reviews,
               Challenges etc. You send us your footage and we will create a
               captivating video.
@@ -101,7 +101,7 @@ export default function ServiceSection() {
               </h3>
             </div>
 
-            <p className="text-gray-500 dark:text-gray-400">
+            <p className="text-zinc-500 dark:text-zinc-400">
               We can make your TikToks, Shorts, Reels, etc, that are built to
               have the highest retention custom to your liking.
             </p>
@@ -160,7 +160,7 @@ export default function ServiceSection() {
             </h3>
           </div>
 
-          <p className="text-gray-500 dark:text-gray-400">
+          <p className="text-zinc-500 dark:text-zinc-400">
             If you need us to edit a promotional video, music video, events
             video, we do it all!
           </p>

@@ -1,13 +1,13 @@
 const PortfolioSectionRevision = () => {
   return (
-    <section className="bg-white dark:bg-gray-900">
+    <section className="bg-white dark:bg-zinc-900">
       <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
         <div className="max-w-screen-md mb-8 lg:mb-16">
-          <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+          <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-zinc-900 dark:text-white">
             Welcome to Our Studio: Crafting Professional Video Content for
             YouTubers and TikTokers
           </h2>
-          <p className="text-gray-500 sm:text-xl dark:text-gray-400">
+          <p className="text-zinc-500 sm:text-xl dark:text-zinc-400">
             At our studio, we're not just video editors; we're storytellers. Our
             team specializes in partnering with YouTubers and TikTokers to
             elevate their content to new heights.
@@ -28,7 +28,7 @@ const PortfolioSectionRevision = () => {
             <h3 className="mb-2 text-xl font-bold dark:text-white">
               Collaborative Creation
             </h3>
-            <p className="text-gray-500 dark:text-gray-400">
+            <p className="text-zinc-500 dark:text-zinc-400">
               We believe in the power of collaboration. From the initial
               brainstorming sessions to the final edits, we work closely with
               our clients to understand their vision and bring it to life.
@@ -48,7 +48,7 @@ const PortfolioSectionRevision = () => {
             <h3 className="mb-2 text-xl font-bold dark:text-white">
               Crafting the Narrative
             </h3>
-            <p className="text-gray-500 dark:text-gray-400">
+            <p className="text-zinc-500 dark:text-zinc-400">
               Fostering collaboration from concept to completion, ensuring your
               visions come to life in every frame.
             </p>
@@ -71,7 +71,7 @@ const PortfolioSectionRevision = () => {
             <h3 className="mb-2 text-xl font-bold dark:text-white">
               Feedback Driven
             </h3>
-            <p className="text-gray-500 dark:text-gray-400">
+            <p className="text-zinc-500 dark:text-zinc-400">
               Edits based on client feedback, ensuring perfect alignment with
               their vision and brand.
             </p>
@@ -94,7 +94,7 @@ const PortfolioSectionRevision = () => {
             <h3 className="mb-2 text-xl font-bold dark:text-white">
               Impactful Results
             </h3>
-            <p className="text-gray-500 dark:text-gray-400">
+            <p className="text-zinc-500 dark:text-zinc-400">
               Driving meaningful engagement and resonance, our videos spark
               impactful conversations and global shares.
             </p>
@@ -114,7 +114,7 @@ const PortfolioSectionRevision = () => {
             <h3 className="mb-2 text-xl font-bold dark:text-white">
               Staying Ahead
             </h3>
-            <p className="text-gray-500 dark:text-gray-400">
+            <p className="text-zinc-500 dark:text-zinc-400">
               Pushing boundaries and innovating to stay ahead, ensuring our
               content remains at the forefront of industry trends.
             </p>
@@ -136,7 +136,7 @@ const PortfolioSectionRevision = () => {
             <h3 className="mb-2 text-xl font-bold dark:text-white">
               Client-Centric
             </h3>
-            <p className="text-gray-500 dark:text-gray-400">
+            <p className="text-zinc-500 dark:text-zinc-400">
               Centering on your satisfaction, we prioritize open communication
               and flexibility throughout the creative process.
             </p>

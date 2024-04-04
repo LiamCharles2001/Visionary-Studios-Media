@@ -20,43 +20,44 @@ Colors: Sunset
 
 Alt tags
 
-https://refine.dev/blog/tailwind-grid/#span-rows
+https://tailwindcolor.com/
+bg-white dark:bg-gray-90
+
+http://colormind.io/bootstrap/
+F6F6F6 Light shades - background
+FDA527 Light accent
+FB5656 Main brand color
+FC634D Dark accent
+191919 Dark shades - text
+
+img overlay color
+
+191919 dark
+F6F6F6 white
+
+https://mycolor.space/
+Logo Colors
+FA2D6E
+FB5656
+FC634D
+FC7642
+FDA527
 
 
-Feedback Driven: Our process is built on feedback. We welcome input from our clients every step of the way, refining our edits until they perfectly align with their vision and brand.
 
 
+60 30 10 rule
+60 background
+30 text
+10 call to action
 
-make videos stack diff on small view
+https://mycolor.space/
+main FC7D3F
 
+Discreet Palette
+#FC7D3F
+#B7866F
+#FFF7F2
+#402E32
 
-
-
-    <section class="about-section text-center" id="about">
-      <div class="container px-4 px-lg-5">
-        <div class="row gx-4 gx-lg-5 justify-content-center">
-          <div class="col-lg-8">
-            <h2 class="text-white mb-4">James Smolak</h2>
-            <p class="text-white-50">
-              I'm a professional Video Editor with currently 50+ million views.
-              Located in the Niagara Region helping businesses with their video
-              needs. You can contact me for
-              <a href="#contact">a free quote.</a>
-              I've worked with Youtubers and companies to create professionally
-              made commercials and videos.
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-                <div className="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
-                <a href="https://calendly.com/visionarystudiosmedia/30min?month=2024-03" className="inline-flex items-center justify-center px-4 py-2.5 text-base font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
-                <svg className="mr-2 -ml-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M2 6a2 2 0 012-2h6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V6zM14.553 7.106A1 1 0 0014 8v4a1 1 0 00.553.894l2 1A1 1 0 0018 13V7a1 1 0 00-1.447-.894l-2 1z"></path></svg>
-                Schedule A Call
-                </a>
-            </div>
-
-
-            <svg className="mr-2 -ml-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M2 6a2 2 0 012-2h6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V6zM14.553 7.106A1 1 0 0014 8v4a1 1 0 00.553.894l2 1A1 1 0 0018 13V7a1 1 0 00-1.447-.894l-2 1z"></path></svg>
-                
+https://uicolors.app/browse/tailwind-colors
