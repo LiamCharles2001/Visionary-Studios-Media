@@ -23,7 +23,7 @@ const JamesSection = () => {
           <div className="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
             <a
               href="https://calendly.com/visionarystudiosmedia/30min?month=2024-03"
-              className="inline-flex items-center justify-center px-4 py-2.5 text-base font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
+              className="inline-flex items-center justify-center px-4 py-2.5 text-base font-medium text-center text-white bg-primary-500 rounded-lg hover:bg-primary-700 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
             >
               <svg
                 className="mr-2 -ml-1 w-5 h-5"

@@ -27,9 +27,7 @@ const TestimonialSection = () => {
               <h3 className="text-xl font-bold tracking-tight text-zinc-900 dark:text-white">
                 <a href="#">SoupTimmy</a>
               </h3>
-              <span className="text-zinc-500 dark:text-zinc-400">
-                Marketing & Sale
-              </span>
+
               <p className="mt-3 mb-4 font-light text-zinc-500 dark:text-zinc-400">
                 “THANK YOU! You did amazing on the edit!”
               </p>
