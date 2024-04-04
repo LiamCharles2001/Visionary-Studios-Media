@@ -7,7 +7,7 @@ from-pink-500 hover:to-yellow-500
 
 export default function Hero() {
   return (
-    <section className="relative">
+    <section className="relative"> {/*p-12 Check to see if theres other padding tpyes I can use*/}
       <Image
         objectFit="cover"
         fill

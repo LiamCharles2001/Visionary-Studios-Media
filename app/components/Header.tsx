@@ -4,7 +4,6 @@ import Image from "next/image"
 const Nav = () => {
     return (
         <header>
-            {/* sticky / fixed */}
             <div className="z-10 fixed top-0 w-full shadow-md">
                 <nav className="bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-zinc-800">
                     <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
