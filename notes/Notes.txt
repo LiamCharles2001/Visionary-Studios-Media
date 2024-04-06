@@ -9,60 +9,10 @@ https://icons.getbootstrap.com/
 ------------------------
 
 
-{/*bg-gradient-to-r from-amber-500 from-0%
-
-from-pink-500 hover:to-yellow-500
-*/}
-
-
-setup movement links
-
-Alt tags
-
-
-
-backdrop-filter backdrop-blur-lg bg-opacity-30
-
-
-
-https://tailwindcolor.com/
-bg-white dark:bg-gray-90
-
-http://colormind.io/bootstrap/
-F6F6F6 Light shades - background
-FDA527 Light accent
-FB5656 Main brand color
-FC634D Dark accent
-191919 Dark shades - text
-
-img overlay color
-
-191919 dark
-F6F6F6 white
-
-https://mycolor.space/
-Logo Colors
-FA2D6E
-FB5656
-FC634D
-FC7642
-FDA527
+motion nav
 
 
 
 
-60 30 10 rule
-60 background
-30 text
-10 call to action
 
-https://mycolor.space/
-main FC7D3F
 
-Discreet Palette
-#FC7D3F
-#B7866F
-#FFF7F2
-#402E32
-
-https://uicolors.app/browse/tailwind-colors

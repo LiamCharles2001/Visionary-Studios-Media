@@ -21,7 +21,7 @@ import Image from "next/image";
 
 const CTASection = () => {
   return (
-    <section className="bg-zinc-900">
+    <section className="bg-zinc-900" id="contact">
       <div className="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
         <img
           className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"

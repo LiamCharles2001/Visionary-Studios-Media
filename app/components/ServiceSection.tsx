@@ -5,7 +5,7 @@ import { JSX, SVGProps } from "react";
 
 export default function ServiceSection() {
   return (
-    <section className="bg-white dark:bg-zinc-900">
+    <section className="bg-white dark:bg-zinc-900" id="services">
       <div className="container mx-auto px-4 py-8">
         <div className="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
           <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-zinc-900 dark:text-white">
@@ -49,6 +49,7 @@ export default function ServiceSection() {
                   src={
                     "https://www.youtube.com/embed/o7WtYvY5zak?si=R-yhQFpNxE1Qj-V3"
                   }
+                  loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 ></iframe>
               </a>
@@ -59,6 +60,7 @@ export default function ServiceSection() {
                   src={
                     "https://www.youtube.com/embed/-qU4qyI4z-4?si=CZZgtMAIOD529cKl"
                   }
+                  loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 ></iframe>
               </a>
@@ -69,6 +71,7 @@ export default function ServiceSection() {
                   src={
                     "https://www.youtube.com/embed/ZVWIfYXK_mM?si=yIOa6yKrP66Im_8_"
                   }
+                  loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 ></iframe>
               </a>
@@ -79,6 +82,7 @@ export default function ServiceSection() {
                   src={
                     "https://www.youtube.com/embed/zmqFm75VXEA?si=OBsbx_WLjTU3NPCd"
                   }
+                  loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 ></iframe>
               </a>
@@ -112,6 +116,7 @@ export default function ServiceSection() {
                   width="100%"
                   height="200"
                   src={"https://www.youtube.com/embed/m8t8NqaUkjA"}
+                  loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 ></iframe>
               </a>
@@ -120,6 +125,7 @@ export default function ServiceSection() {
                   width="100%"
                   height="200"
                   src={"https://www.youtube.com/embed/JmHRJ5nAoRw"}
+                  loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 ></iframe>
               </a>
@@ -128,6 +134,7 @@ export default function ServiceSection() {
                   width="100%"
                   height="200"
                   src={"https://www.youtube.com/embed/bTIo4aNgV-A"}
+                  loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 ></iframe>
               </a>
@@ -136,6 +143,7 @@ export default function ServiceSection() {
                   width="100%"
                   height="200"
                   src={"https://www.youtube.com/embed/biyz_t9olQo"}
+                  loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 ></iframe>
               </a>
@@ -172,6 +180,7 @@ export default function ServiceSection() {
                 src={
                   "https://www.youtube.com/embed/V4ohNwQSw0k?si=iZ1UGnKsYNkcDqmQ"
                 }
+                loading="lazy"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
               ></iframe>
             </a>
@@ -182,6 +191,7 @@ export default function ServiceSection() {
                 src={
                   "https://www.youtube.com/embed/Ip9zoA8g1pg?si=TcB-mdpH6u14SnUJ"
                 }
+                loading="lazy"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
               ></iframe>
             </a>
