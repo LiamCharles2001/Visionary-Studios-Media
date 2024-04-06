@@ -51,6 +51,7 @@ export default function ServiceSection() {
                   }
                   loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  className="rounded-lg sm:rounded-none sm:rounded-l-lg"
                 ></iframe>
               </a>
               <a className="block" href="#">
@@ -62,6 +63,7 @@ export default function ServiceSection() {
                   }
                   loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  className="rounded-lg sm:rounded-none sm:rounded-l-lg"
                 ></iframe>
               </a>
               <a className="block" href="#">
@@ -73,6 +75,7 @@ export default function ServiceSection() {
                   }
                   loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  className="rounded-lg sm:rounded-none sm:rounded-l-lg"
                 ></iframe>
               </a>
               <a className="block" href="#">
@@ -84,6 +87,7 @@ export default function ServiceSection() {
                   }
                   loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  className="rounded-lg sm:rounded-none sm:rounded-l-lg"
                 ></iframe>
               </a>
             </div>
@@ -118,6 +122,7 @@ export default function ServiceSection() {
                   src={"https://www.youtube.com/embed/m8t8NqaUkjA"}
                   loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  className="rounded-lg sm:rounded-none sm:rounded-l-lg"
                 ></iframe>
               </a>
               <a className="block" href="#">
@@ -127,6 +132,7 @@ export default function ServiceSection() {
                   src={"https://www.youtube.com/embed/JmHRJ5nAoRw"}
                   loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  className="rounded-lg sm:rounded-none sm:rounded-l-lg"
                 ></iframe>
               </a>
               <a className="block" href="#">
@@ -136,6 +142,7 @@ export default function ServiceSection() {
                   src={"https://www.youtube.com/embed/bTIo4aNgV-A"}
                   loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  className="rounded-lg sm:rounded-none sm:rounded-l-lg"
                 ></iframe>
               </a>
               <a className="block" href="#">
@@ -145,6 +152,7 @@ export default function ServiceSection() {
                   src={"https://www.youtube.com/embed/biyz_t9olQo"}
                   loading="lazy"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  className="rounded-lg sm:rounded-none sm:rounded-l-lg"
                 ></iframe>
               </a>
             </div>
@@ -182,6 +190,7 @@ export default function ServiceSection() {
                 }
                 loading="lazy"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                className="rounded-lg sm:rounded-none sm:rounded-l-lg"
               ></iframe>
             </a>
             <a className="block" href="#">
@@ -193,6 +202,7 @@ export default function ServiceSection() {
                 }
                 loading="lazy"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                className="rounded-lg sm:rounded-none sm:rounded-l-lg"
               ></iframe>
             </a>
           </div>

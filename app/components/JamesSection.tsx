@@ -20,7 +20,7 @@ const JamesSection = () => {
             frame tells a compelling story that captivates audiences.
           </p>
 
-          <div className="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
+          {/* <div className="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
             <a
               href="https://calendly.com/visionarystudiosmedia/30min?month=2024-03"
               className="inline-flex items-center justify-center px-4 py-2.5 text-base font-medium text-center text-white bg-primary-500 rounded-lg hover:bg-primary-700 focus:ring-4 focus:ring-primary-900"
@@ -35,11 +35,11 @@ const JamesSection = () => {
               </svg>
               Schedule A Call
             </a>
-          </div>
+          </div> */}
         </div>
         <div className="grid grid-cols-2 gap-4 mt-8">
           <Image
-            className="w-full rounded-lg"
+            className="w-full rounded-lg shadow-2xl shadow-primary-500"
             width={200}
             height={200}
             src="/assets/portfolio_2.jpg"
@@ -47,7 +47,7 @@ const JamesSection = () => {
           />
 
           <Image
-            className="mt-4 w-full lg:mt-10 rounded-lg"
+            className="mt-4 w-full lg:mt-10 rounded-lg shadow-2xl shadow-primary-700"
             width={200}
             height={200}
             src="/assets/portfolio_4.jpg"
