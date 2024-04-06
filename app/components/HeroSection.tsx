@@ -1,26 +1,21 @@
 import Image from "next/image";
 
-{/*bg-gradient-to-r from-amber-500 from-0%
-
-from-pink-500 hover:to-yellow-500
-*/}
-
 export default function Hero() {
   return (
-    <section className="relative pt-[90px] lg:pt-[50px]">
+    <section className="relative pt-[90px] lg:pt-[50px]"> 
       <Image
         objectFit="cover"
         fill
         src="/assets/timeline-background.jpg"
         alt="Video Editing Service Logo"
-        className="-z-10 blur-sm brightness-95"
+        className="-z-10 blur-sm brightness-75"
       />
       <div className="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
         <div className="mr-auto place-self-center lg:col-span-7">
-          <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white ">
+          <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl">
           Video Editing for YouTubers and TikTokers
           </h1>
-          <p className="max-w-2xl mb-6 font-light text-zinc-500 lg:mb-8 md:text-lg lg:text-xl dark:text-zinc-400">
+          <p className="max-w-2xl mb-6 font-light text-zinc-500 lg:mb-8 md:text-lg lg:text-xl dark:text-zinc-200">
             Get your videos Professionally Edited in Your Personal Style
           </p>
           <a
