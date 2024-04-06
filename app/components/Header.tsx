@@ -5,7 +5,7 @@ const Nav = () => {
     return (
         <header>
             <div className="z-10 fixed top-0 w-full shadow-md">
-                <nav className="bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-zinc-800">
+                <nav className="border-gray-200 px-4 lg:px-6 py-2.5 bg-zinc-800">
                     <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                         <a href="#" className="flex items-center">
                             <Image
@@ -15,7 +15,7 @@ const Nav = () => {
                                 alt="Visionary Studios Media Logo"
                                 className="p-1"
                             />
-                            <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Visionary Studios Media</span>
+                            <span className="self-center text-xl font-semibold whitespace-nowrap text-white">Visionary Studios Media</span>
                         </a>
                         <div className="flex items-center lg:order-2">
                             <a href="https://calendly.com/visionarystudiosmedia/30min?month=2024-03" className="text-white focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 focus:outline-none dark:focus:ring-primary-800 bg-gradient-to-r from-red-500 to-amber-400 hover:from-indigo-500 from-10% hover:via-sky-500 via-30% hover:to-emerald-500 to-90%">Schedule A Call</a>

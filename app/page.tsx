@@ -17,8 +17,10 @@ export default function Home() {
     
     <ServiceSection/>
     <TestimonialSection/>
+
     <CTASection/>
     <Footer/>
+
     </>
   );
 }

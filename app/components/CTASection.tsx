@@ -29,10 +29,10 @@ const CTASection = () => {
           alt="video image"
         />
         <div className="mt-4 md:mt-0">
-          <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+          <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">
             Let&apos;s talk about how we can help your videos.
           </h2>
-          <p className="mb-6 font-light text-gray-500 md:text-lg dark:text-gray-400">
+          <p className="mb-6 font-light md:text-lg text-gray-400">
             We help YouTubers on lifting the video editing burdeon from them so
             they can focus on what matters.
           </p>
