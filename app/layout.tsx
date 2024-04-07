@@ -8,8 +8,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Visionary Studios Media",
-  description: "Professional Video Editing Service for Growing Youtubers.",
-  keywords: "video, editing, youtu",
+  description: "Professional Video Editing Service for Growing YouTubers.",
+  keywords: "Video, Editing, Editor, YouTube, TikTok",
 };
 
 export default function RootLayout({

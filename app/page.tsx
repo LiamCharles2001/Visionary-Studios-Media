@@ -11,18 +11,13 @@ export default function Home() {
   return (
     <>
     <Hero/>
-
     <JamesSection/>
-
     <PortfolioSectionRevision/>
-    
     <ServiceSection/>
     <TestimonialSection/>
-
     <CTASection/>
     <Socials/>
     <Footer/>
-
     </>
   );
 }

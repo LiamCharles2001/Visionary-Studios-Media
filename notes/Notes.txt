@@ -15,6 +15,10 @@ clutter
 
 
 
-NEED:
-tiktok link needed
+TODO:
+Zoom in effect
+Footer bg img
+preview img
+all <img> to <Image/></Image>
+Views number fixed
 

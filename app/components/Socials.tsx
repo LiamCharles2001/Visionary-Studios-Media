@@ -1,12 +1,10 @@
-import Image from "next/image";
-
 const Socials = () => {
   return (
     <section className="bg-zinc-900" id="testimonials">
       <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6 ">
         <div className="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
           <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">
-            Follow Us
+            Follow Our Socials
           </h2>
           <div>
             <ul className="flex justify-center space-x-4 sm:mt-0">
@@ -30,7 +28,7 @@ const Socials = () => {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://www.tiktok.com/@visionarystudiosmedia"
                   target="_blank"
                   className="text-zinc-500 hover:text-zinc-900 dark:hover:text-white"
                 >

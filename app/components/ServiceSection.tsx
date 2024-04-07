@@ -1,8 +1,3 @@
-import { JSX, SVGProps } from "react";
-{
-  /*Junk */
-}
-
 export default function ServiceSection() {
   return (
     <section className="bg-white dark:bg-zinc-900" id="portfolio">
