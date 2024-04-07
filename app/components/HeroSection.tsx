@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <section className="relative pt-[90px] lg:pt-[50px] -z-50 bg-zinc-900">
+    <section className="relative pt-[90px] lg:pt-[50px]">
       <Image
         objectFit="cover"
         fill
@@ -10,6 +10,7 @@ export default function Hero() {
         alt="Video Editing Service Logo"
         className="-z-10 blur-sm brightness-75"
       />
+      <div className="-z-20 bg-zinc-900"></div>
       <div className="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
         <div className="mr-auto place-self-center lg:col-span-7">
           <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl text-zinc-100">
@@ -30,7 +31,7 @@ export default function Hero() {
             >
               <path d="M2 6a2 2 0 012-2h6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V6zM14.553 7.106A1 1 0 0014 8v4a1 1 0 00.553.894l2 1A1 1 0 0018 13V7a1 1 0 00-1.447-.894l-2 1z"></path>
             </svg>
-            Schedule A Call
+            Schedule A Free Call
           </a>
           {/* <a href="https://calendly.com/visionarystudiosmedia/30min?month=2024-03" className="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-zinc-900 border border-zinc-300 rounded-lg hover:bg-zinc-100 focus:ring-4 focus:ring-zinc-100 dark:text-white dark:border-zinc-700 dark:hover:bg-zinc-700 dark:focus:ring-zinc-800">
             Schedule A Call

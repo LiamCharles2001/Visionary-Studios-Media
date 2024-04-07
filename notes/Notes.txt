@@ -9,10 +9,16 @@ https://icons.getbootstrap.com/
 ------------------------
 
 
-Glow or no Glow?
-
-
+clutter
+socials
+add more details for the review section (view count, subs, star icons)
 
 
 Better: 
 More Color, Better SEO, Faster, Straight to the point
+
+
+
+tiktok link needed
+
+

@@ -14,14 +14,14 @@ const Footer = () => {
               />
                 Visionary Studios Media    
             </a>
-            <p className="my-6 text-zinc-500 dark:text-zinc-400">Helping YouTubers and Content creators to create better videos.</p>
+            <p className="my-6 text-zinc-500 dark:text-zinc-400">Helping YouTubers and content creators to create better videos.</p>
             <ul className="flex flex-wrap justify-center items-center mb-6 text-zinc-900 dark:text-white">
                 <li>
                     <a href="#about" className="mr-4 hover:underline md:mr-6 ">About</a>
                 </li>
-                <li>
+                {/* <li>
                     <a href="#services" className="mr-4 hover:underline md:mr-6">Services</a>
-                </li>
+                </li> */}
                 <li>
                     <a href="#portfolio" className="mr-4 hover:underline md:mr-6 ">Portfolio</a>
                 </li>

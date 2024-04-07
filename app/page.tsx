@@ -5,6 +5,7 @@ import ServiceSection from "./components/ServiceSection";
 import TestimonialSection from "./components/TestimonialsSection";
 import CTASection from "./components/CTASection";
 import JamesSection from "./components/JamesSection";
+import Socials from "./components/Socials";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
     <TestimonialSection/>
 
     <CTASection/>
+    <Socials/>
     <Footer/>
 
     </>

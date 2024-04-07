@@ -10,7 +10,7 @@ const JamesSection = () => {
           </h2>
           <p className="mb-4 text-md">
             I'm a professional Video Editor with currently 73+ million views.
-            Located in the Niagara Region helping content creators with their
+            Located in the Niagara Region, helping content creators with their
             video needs.
           </p>
           <p className="mb-4 text-md">

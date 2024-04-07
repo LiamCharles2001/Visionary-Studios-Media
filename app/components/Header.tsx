@@ -18,7 +18,7 @@ const Nav = () => {
                             <span className="self-center text-xl font-semibold whitespace-nowrap text-white">Visionary Studios Media</span>
                         </a>
                         <div className="flex items-center lg:order-2">
-                            <a href="https://calendly.com/visionarystudiosmedia/30min?month=2024-03" className="text-white focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 focus:outline-none dark:focus:ring-primary-800 bg-gradient-to-r from-red-500 to-amber-400 hover:from-indigo-500 from-10% hover:via-sky-500 via-30% hover:to-emerald-500 to-90%">Schedule A Call</a>
+                            <a href="https://calendly.com/visionarystudiosmedia/30min?month=2024-03" className="text-white focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 focus:outline-none dark:focus:ring-primary-800 bg-gradient-to-r from-red-500 to-amber-400 hover:from-indigo-500 from-10% hover:via-sky-500 via-30% hover:to-emerald-500 to-90%">Schedule A Free Call</a>
                             <button data-collapse-toggle="mobile-menu-2" type="button" className="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-2" aria-expanded="false">
                                 <span className="sr-only">Open main menu</span>
                                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clipRule="evenodd"></path></svg>
@@ -30,9 +30,9 @@ const Nav = () => {
                                 <li>
                                     <a href="#about" className="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">About</a>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <a href="#services" className="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">Services</a>
-                                </li>
+                                </li> */}
                                 <li>
                                     <a href="#portfolio" className="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">Portfolio</a>
                                 </li>

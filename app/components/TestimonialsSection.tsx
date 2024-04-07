@@ -14,18 +14,17 @@ const TestimonialSection = () => {
         </div>
         <div className="grid gap-8 mb-6 lg:mb-16 md:grid-cols-2">
           <div className="items-center bg-zinc-50 rounded-lg shadow sm:flex dark:bg-zinc-800 dark:border-zinc-700">
-            <a href="#">
+            <div>
               <Image
                 className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"
                 width={300}
                 height={300}
                 src="/assets/portfolio_5.jpg"
                 alt="SoupTimmy"
-              />
-            </a>
+              /></div>
             <div className="p-5">
               <h3 className="text-xl font-bold tracking-tight text-zinc-900 dark:text-white">
-                <a href="#">SoupTimmy</a>
+                SoupTimmy
               </h3>
 
               <p className="mt-3 mb-4 font-light text-zinc-500 dark:text-zinc-400">
@@ -56,18 +55,17 @@ const TestimonialSection = () => {
             </div>
           </div>
           <div className="items-center bg-zinc-50 rounded-lg shadow sm:flex dark:bg-zinc-800 dark:border-zinc-700">
-            <a href="#">
+          <div>
               <Image
                 className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"
                 width={300}
                 height={300}
                 src="/assets/portfolio_3.jpg"
                 alt="Kelly Wakasa"
-              />
-            </a>
+              /></div>
             <div className="p-5">
               <h3 className="text-xl font-bold tracking-tight text-zinc-900 dark:text-white">
-                <a href="#">Kelly Wakasa</a>
+                Kelly Wakasa
               </h3>
               {/* <span className="text-zinc-500 dark:text-zinc-400">CTO</span> */}
               <p className="mt-3 mb-4 font-light text-zinc-500 dark:text-zinc-400">
@@ -98,18 +96,17 @@ const TestimonialSection = () => {
             </div>
           </div>
           <div className="items-center bg-zinc-50 rounded-lg shadow sm:flex dark:bg-zinc-800 dark:border-zinc-700">
-            <a href="#">
+            <div>
               <Image
                 className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"
                 width={300}
                 height={300}
                 src="/assets/portfolio_1.jpg"
                 alt="Luke Eich"
-              />
-            </a>
+              /></div>
             <div className="p-5">
               <h3 className="text-xl font-bold tracking-tight text-zinc-900 dark:text-white">
-                <a href="#">Luke Eich</a>
+                Luke Eich
               </h3>
               {/* <span className="text-zinc-500 dark:text-zinc-400">CEO & Web Developer</span> */}
               <p className="mt-3 mb-4 font-light text-zinc-500 dark:text-zinc-400">
