@@ -30,7 +30,7 @@ const CTASection = () => {
         />
         <div className="mt-4 md:mt-0">
           <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">
-            Let&apos;s talk about how we can help your videos.
+            Let&apos;s talk about how we can help <div className="underline decoration-primary-400">your videos</div>
           </h2>
           <p className="mb-6 font-light md:text-lg text-gray-400">
             We help content creators on lifting the video editing burdeon from them so

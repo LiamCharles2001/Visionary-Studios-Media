@@ -39,7 +39,7 @@ export default function RootLayout({
         />
         <link rel="manifest" href="/site.webmanifest" />
 
-        {/*REMOVE THIS */}
+        {/*REMOVE THIS*/}
         <link
           href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css"
           rel="stylesheet"

@@ -6,16 +6,15 @@ https://docs.google.com/document/d/1Fl1OhCVdYzhXSwn3VCJBr_VA89g4RSGeleIb40bvg24/
 Icons
 https://icons.getbootstrap.com/
 
-------------------------
-
-
-clutter
-add more details for the review section (view count, subs, star icons)
-
-
+----------------------------------------------------------------
 Better: 
 More Color, Better SEO, Faster, Straight to the point
+----------------------------------------------------------------
 
+clutter
+
+
+
+NEED:
 tiktok link needed
-
 

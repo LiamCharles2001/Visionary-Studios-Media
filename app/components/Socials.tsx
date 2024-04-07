@@ -16,7 +16,7 @@ const Socials = () => {
                   target="_blank"
                   className="text-zinc-500 hover:text-zinc-900 dark:hover:text-white"
                 >
-                  <div className="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-500">
+                  <div className="flex justify-center items-center mb-4 w-10 h-10 rounded-full lg:h-12 lg:w-12 bg-primary-500 hover:bg-primary-700">
                     <svg
                       className="w-5 h-5 text-primary-600 lg:w-6 lg:h-6 dark:text-white"
                       fill="currentColor"
@@ -34,7 +34,7 @@ const Socials = () => {
                   target="_blank"
                   className="text-zinc-500 hover:text-zinc-900 dark:hover:text-white"
                 >
-                  <div className="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-500">
+                  <div className="flex justify-center items-center mb-4 w-10 h-10 rounded-full lg:h-12 lg:w-12 bg-primary-500 hover:bg-primary-700">
                     <svg
                       className="w-5 h-5 text-primary-600 lg:w-6 lg:h-6 dark:text-white"
                       fill="currentColor"
@@ -52,7 +52,7 @@ const Socials = () => {
                   target="_blank"
                   className="text-zinc-500 hover:text-zinc-900 dark:hover:text-white"
                 >
-                  <div className="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-500">
+                  <div className="flex justify-center items-center mb-4 w-10 h-10 rounded-full lg:h-12 lg:w-12 bg-primary-500 hover:bg-primary-700">
                     <svg
                       className="w-5 h-5 text-primary-600 lg:w-6 lg:h-6 dark:text-white"
                       fill="currentColor"
