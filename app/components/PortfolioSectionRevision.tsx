@@ -8,7 +8,7 @@ const PortfolioSectionRevision = () => {
             YouTubers and TikTokers
           </h2>
           <p className="text-zinc-500 sm:text-xl dark:text-zinc-400">
-            At our studio, we're not just video editors; we're storytellers. Our
+            At our studio, we&apos;re not just video editors; we&apos;re storytellers. Our
             team specializes in partnering with YouTubers and TikTokers to
             elevate their content to new heights.
           </p>

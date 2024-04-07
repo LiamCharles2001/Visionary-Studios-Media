@@ -83,7 +83,7 @@ const PortfolioSection = () => {
             </div>
             <h3 className="mb-2 text-xl font-bold dark:text-white">Quality</h3>
             <p className="text-gray-500 dark:text-gray-400">
-              We won&apos;t stop until you're satisfied with the final video.
+              We won&apos;t stop until you&apos;re satisfied with the final video.
             </p>
           </div>
           <div>

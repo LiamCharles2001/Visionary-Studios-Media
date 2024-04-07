@@ -9,7 +9,7 @@ const TestimonialSection = () => {
             Testimonials
           </h2>
           <p className="font-light text-zinc-500 lg:mb-16 sm:text-xl dark:text-zinc-400">
-            We've worked with many talented people, helping them to achieve
+            We&apos;ve worked with many talented people, helping them to achieve
             their goals by editing their videos
           </p>
         </div>

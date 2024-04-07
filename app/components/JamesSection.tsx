@@ -9,7 +9,7 @@ const JamesSection = () => {
             James Smolak
           </h2>
           <p className="mb-4 text-md">
-            I'm a professional Video Editor with currently 73+ million views.
+            I&apos;m a professional Video Editor with currently 73+ million views.
             Located in the Niagara Region, helping content creators with their
             video needs.
           </p>
