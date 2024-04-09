@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="relative pt-[90px] lg:pt-[50px]">
       <Image
         fill
-        src="/assets/timeline-background.jpg"
+        src="/assets/pexels-2.jpg"
         alt="Video Editing Service Logo"
         className="-z-20 brightness-75 object-cover"
         priority

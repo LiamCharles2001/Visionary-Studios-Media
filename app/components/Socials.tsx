@@ -1,6 +1,16 @@
+import Image from "next/image";
+
 const Socials = () => {
   return (
-    <section className="bg-zinc-900" id="testimonials">
+    <section className="relative">
+      <Image
+        fill
+        src="/assets/pexels-2.jpg"
+        alt="Video Editing Service Logo"
+        className="-z-20 brightness-75 object-cover"
+        priority
+        placeholder = 'empty'
+      />
       <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6 ">
         <div className="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
           <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">
@@ -67,7 +77,7 @@ const Socials = () => {
         </div>
 
         <div className="grid gap-8 mb-6 lg:mb-16 md:grid-cols-2">
-          <div className="items-center rounded-lg shadow sm:flex bg-zinc-800 border-zinc-700">
+          <div className="items-center rounded-lg shadow sm:flex bg-zinc-800 border-zinc-800">
             <div className="p-5">
               <div className="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-500">
                 <svg
@@ -90,7 +100,7 @@ const Socials = () => {
               </p>
             </div>
           </div>
-          <div className="items-center rounded-lg shadow sm:flex bg-zinc-800 border-zinc-700">
+          <div className="items-center rounded-lg shadow sm:flex bg-zinc-800 border-zinc-800">
             <div className="p-5">
               <div className="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-500">
                 <svg

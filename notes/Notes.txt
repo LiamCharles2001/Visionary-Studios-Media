@@ -11,6 +11,5 @@ Test:
 Preview image in the Layout.tsx
 
 TODO:
-Footer bg img
 Views number fixed
 

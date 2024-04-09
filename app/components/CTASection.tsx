@@ -6,9 +6,9 @@ const CTASection = () => {
       <div className="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
           <Image
             className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
-            width={200}
-            height={200}
-            src="/assets/timeline-bottom.jpg"
+            width={500}
+            height={500}
+            src="/assets/pexels-10.jpg"
             alt="Video Editing"
             placeholder = 'empty'
           />
