@@ -20,6 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
+        <meta property="og:image" content="/favicon-32x32.png" /> {/*Test this*/}
         <link
           rel="apple-touch-icon"
           sizes="180x180"

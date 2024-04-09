@@ -40,7 +40,7 @@ export default function Hero() {
         </div>
         <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
           <iframe
-            className="rounded-lg sm:rounded-none sm:rounded-l-lg shadow-2xl"
+            className="rounded-lg sm:rounded-none sm:rounded-l-lg shadow-2xl hover:scale-110 transition duration-500"
             width="560"
             height="315"
             src="https://www.youtube.com/embed/biyz_t9olQo?si=W-cyZEFiYmicOYVc&amp;controls=0"

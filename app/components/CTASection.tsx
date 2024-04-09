@@ -4,11 +4,14 @@ const CTASection = () => {
   return (
     <section className="bg-zinc-900" id="contact">
       <div className="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl xl:gap-16 md:grid md:grid-cols-2 sm:py-16 lg:px-6">
-        <img
-          className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"
-          src="/assets/timeline-bottom.jpg"
-          alt="video image"
-        />
+          <Image
+            className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
+            width={200}
+            height={200}
+            src="/assets/timeline-bottom.jpg"
+            alt="Video Editing"
+            placeholder = 'empty'
+          />
         <div className="mt-4 md:mt-0">
           <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">
             Let&apos;s talk about how we can help <div className="underline decoration-primary-400">your videos</div>

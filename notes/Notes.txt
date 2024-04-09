@@ -7,18 +7,10 @@ Icons
 https://icons.getbootstrap.com/
 
 ----------------------------------------------------------------
-Better: 
-More Color, Better SEO, Faster, Straight to the point
-----------------------------------------------------------------
-
-clutter
-
-
+Test:
+Preview image in the Layout.tsx
 
 TODO:
-Zoom in effect
 Footer bg img
-preview img
-all <img> to <Image/></Image>
 Views number fixed
 
