@@ -4,11 +4,10 @@ export default function Hero() {
   return (
     <section className="relative pt-[90px] lg:pt-[50px]">
       <Image
-        objectFit="cover"
         fill
         src="/assets/timeline-background.jpg"
         alt="Video Editing Service Logo"
-        className="-z-20 brightness-75"
+        className="-z-20 brightness-75 object-cover"
         priority
         placeholder = 'empty'
       />
