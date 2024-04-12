@@ -20,7 +20,13 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
-        <meta property="og:image" content="/favicon-32x32.png" /> {/*Test this*/}
+        <meta property="og:image" content="/apple-touch-icon.png" /> {/*Test this*/}
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="/favicon-32x32.png"
+        />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -29,24 +35,19 @@ export default function RootLayout({
         <link
           rel="icon"
           type="image/png"
-          sizes="32x32"
-          href="/favicon-32x32.png"
-        />
-        <link
-          rel="icon"
-          type="image/png"
           sizes="16x16"
           href="/favicon-16x16.png"
         />
         <link rel="manifest" href="/site.webmanifest" />
-
         {/*REMOVE THIS*/}
         <link
           href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css"
           rel="stylesheet"
         />
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js" defer/>
-        
+        <script
+          src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"
+          defer
+        />
       </head>
       <body className={inter.className}>
         <div className="dark">

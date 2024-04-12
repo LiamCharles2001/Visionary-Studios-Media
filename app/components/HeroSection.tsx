@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <section className="relative pt-[90px] lg:pt-[50px]">
+    <section className="relative pt-[90px] lg:p-[90px]">
       <Image
         fill
         src="/assets/timeline.jpg"
