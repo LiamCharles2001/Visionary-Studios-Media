@@ -13,3 +13,5 @@ Preview image in the Layout.tsx
 TODO:
 Views number fixed
 
+remove view 
+make commerceal smaller
