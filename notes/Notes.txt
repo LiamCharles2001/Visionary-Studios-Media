@@ -1,0 +1,17 @@
+https://docs.google.com/document/d/1gHNCVWoxi48AVe0ubBsd26sqktX40P1jIh4C-Cte350/edit
+
+MY COPY
+https://docs.google.com/document/d/1Fl1OhCVdYzhXSwn3VCJBr_VA89g4RSGeleIb40bvg24/edit
+
+Icons
+https://icons.getbootstrap.com/
+
+----------------------------------------------------------------
+Test:
+Preview image in the Layout.tsx
+
+TODO:
+Views number fixed
+
+remove view 
+make commerceal smaller
