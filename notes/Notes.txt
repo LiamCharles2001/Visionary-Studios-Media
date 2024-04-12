@@ -10,7 +10,8 @@ Preview image in the Layout.tsx
 TODO:
 make commerceal smaller
 Testimonials - move bottom to the mid
-hero add plugs for tik, youtube, face, reel, etc
+hero add plugs for tik, youtube, face, reel, etc 
+get new img for header / foot
 delete unused imgs
 
 Note:
@@ -24,6 +25,12 @@ Commercial editing try to make smaller somehow
 
 Add logos of youtube, tiktok and Instagram instead of saying for youtube and tiktok looks like it’s only for those platforms
 https://flowbite.com/blocks/marketing/customer-logos/
+
+instrgam 
+facebook
+youtube 
+reel 
+tiktok 
 
 
 <section class="bg-white dark:bg-gray-900">
