@@ -34,12 +34,7 @@ const TestimonialSection = () => {
               </p>
               <ul className="flex space-x-4 sm:mt-0 text-zinc-300">
                 <li>
-                  <p>1000+</p>
-                  <p>Views</p>
-                </li>
-                <li>
-                  <p>4.33M+</p>
-                  <p>Subscribers</p>
+                  <p>4.33M+<br/>Subscribers</p>
                 </li>
               </ul>
               <div className="flex items-center">
@@ -111,12 +106,7 @@ const TestimonialSection = () => {
               </p>
               <ul className="flex space-x-4 sm:mt-0 text-zinc-300">
                 <li>
-                  <p>1000+</p>
-                  <p>Views</p>
-                </li>
-                <li>
-                  <p>1.54M+</p>
-                  <p>Subscribers</p>
+                <p>1.54M+<br/>Subscribers</p>
                 </li>
               </ul>
               <div className="flex items-center">
@@ -188,12 +178,7 @@ const TestimonialSection = () => {
               </p>
               <ul className="flex space-x-4 sm:mt-0 text-zinc-300">
                 <li>
-                  <p>1000+</p>
-                  <p>Views</p>
-                </li>
-                <li>
-                  <p>385K+</p>
-                  <p>Subscribers</p>
+                <p>385K+<br/>Subscribers</p>
                 </li>
               </ul>
               <div className="flex items-center">

@@ -1,7 +1,4 @@
-https://docs.google.com/document/d/1gHNCVWoxi48AVe0ubBsd26sqktX40P1jIh4C-Cte350/edit
-
-MY COPY
-https://docs.google.com/document/d/1Fl1OhCVdYzhXSwn3VCJBr_VA89g4RSGeleIb40bvg24/edit
+https://docs.google.com/document/d/1gumrJpBxWSxanXv-7lNq8b6nWNn1eqCOpRmp9BWo5Pg/edit
 
 Icons
 https://icons.getbootstrap.com/
@@ -13,5 +10,21 @@ Preview image in the Layout.tsx
 TODO:
 Views number fixed
 
-remove view 
 make commerceal smaller
+use new doc
+Testimonials - move bottom to the mid
+hero add plugs for tik, youtube, face, reel, etc
+check favicon size
+delete unused imgs
+----------------
+&apos;
+
+
+//Change to just Video Editing for Content Creators
+Make it bigger too
+Add logos of youtube, tiktok and Instagram instead of saying for youtube and tiktok looks like it’s only for those platforms
+
+
+
+Commercial editing try to make smaller somehow
+
