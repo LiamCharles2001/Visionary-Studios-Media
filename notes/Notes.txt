@@ -9,7 +9,6 @@ Preview image in the Layout.tsx
 
 TODO:
 make commerceal smaller
-Testimonials - move bottom to the mid
 get new img for header / foot
 delete unused imgs
 

@@ -158,7 +158,8 @@ const TestimonialSection = () => {
               </div>
             </div>
           </div>
-          <div className="items-center bg-zinc-50 rounded-lg shadow sm:flex dark:bg-zinc-800 dark:border-zinc-700 hover:scale-110 transition duration-500">
+          {/*delete: col-span-2 */}
+          <div className="items-center bg-zinc-50 rounded-lg shadow sm:flex dark:bg-zinc-800 dark:border-zinc-700 hover:scale-110 transition duration-500 col-span-2">
             <div>
               <Image
                 className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"
