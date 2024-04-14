@@ -8,7 +8,6 @@ Test:
 Preview image in the Layout.tsx
 
 TODO:
-make commerceal smaller
 get new img for header / foot
 delete unused imgs
 
