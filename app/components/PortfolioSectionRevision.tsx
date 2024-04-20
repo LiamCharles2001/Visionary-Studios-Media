@@ -4,13 +4,10 @@ const PortfolioSectionRevision = () => {
       <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
         <div className="max-w-screen-md mb-8 lg:mb-16">
           <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-zinc-900 dark:text-white">
-            Welcome to Our Studio: Crafting Professional Video Content for
-            YouTubers and TikTokers
+          Welcome to Our Studio: Crafting Professional Video Content for Creators on YouTube, Tiktok, Instagram, etc.
           </h2>
           <p className="text-zinc-500 sm:text-xl dark:text-zinc-400">
-            At our studio, we&apos;re not just video editors; we&apos;re storytellers. Our
-            team specializes in partnering with YouTubers and TikTokers to
-            elevate their content to new heights.
+          At our studio, we&apos;re not just video editors; we&apos;re storytellers. Our team specializes in partnering with creators to elevate their content to new heights.
           </p>
         </div>
         <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
@@ -95,8 +92,7 @@ const PortfolioSectionRevision = () => {
               Impactful Results
             </h3>
             <p className="text-zinc-500 dark:text-zinc-400">
-              Driving meaningful engagement and resonance, our videos spark
-              impactful conversations and global shares.
+            Driving meaningful engagement and building high retention, our videos spark impactful conversations and global shares.
             </p>
           </div>
           <div>

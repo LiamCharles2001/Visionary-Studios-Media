@@ -9,17 +9,11 @@ const JamesSection = () => {
             James Smolak
           </h2>
           <p className="mb-4 text-md">
-            I&apos;m a professional Video Editor with currently 73+ million
-            views. Located in the Niagara Region, helping content creators with
-            their video needs.
+          I&apos;m a professional Video Editor with 50+ million views. Helping content creators with their video needs. 
           </p>
           <p className="mb-4 text-md">
-            My team specialize in crafting professional YouTube and TikTok
-            videos. With a dedicated team of skilled editors, we work closely
-            with content creators to bring their vision to life, ensuring every
-            frame tells a compelling story that captivates audiences.
+          My team specializes in crafting professional high retention videos using your personalized style in Adobe Creative Suite. With a dedicated team of skilled editors, we work closely with content creators to bring their vision to life, ensuring every frame tells a compelling story that captivates audiences.
           </p>
-
           <ul className="flex space-x-4 sm:mt-0">
             <li>
               <a

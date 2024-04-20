@@ -45,7 +45,7 @@ export default function ServiceSection() {
                     "https://www.youtube.com/embed/o7WtYvY5zak?si=R-yhQFpNxE1Qj-V3"
                   }
                   loading="lazy"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   className="rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
                 ></iframe>
               </a>
@@ -57,7 +57,7 @@ export default function ServiceSection() {
                     "https://www.youtube.com/embed/-qU4qyI4z-4?si=CZZgtMAIOD529cKl"
                   }
                   loading="lazy"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   className="rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
                 ></iframe>
               </a>
@@ -69,7 +69,7 @@ export default function ServiceSection() {
                     "https://www.youtube.com/embed/ZVWIfYXK_mM?si=yIOa6yKrP66Im_8_"
                   }
                   loading="lazy"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   className="rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
                 ></iframe>
               </a>
@@ -81,7 +81,7 @@ export default function ServiceSection() {
                     "https://www.youtube.com/embed/zmqFm75VXEA?si=OBsbx_WLjTU3NPCd"
                   }
                   loading="lazy"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   className="rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
                 ></iframe>
               </a>
@@ -116,7 +116,7 @@ export default function ServiceSection() {
                   height="200"
                   src={"https://www.youtube.com/embed/m8t8NqaUkjA"}
                   loading="lazy"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   className="rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
                 ></iframe>
               </a>
@@ -126,7 +126,7 @@ export default function ServiceSection() {
                   height="200"
                   src={"https://www.youtube.com/embed/JmHRJ5nAoRw"}
                   loading="lazy"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   className="rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
                 ></iframe>
               </a>
@@ -136,7 +136,7 @@ export default function ServiceSection() {
                   height="200"
                   src={"https://www.youtube.com/embed/bTIo4aNgV-A"}
                   loading="lazy"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   className="rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
                 ></iframe>
               </a>
@@ -146,7 +146,7 @@ export default function ServiceSection() {
                   height="200"
                   src={"https://www.youtube.com/embed/biyz_t9olQo"}
                   loading="lazy"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   className="rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
                 ></iframe>
               </a>
@@ -184,7 +184,7 @@ export default function ServiceSection() {
                   "https://www.youtube.com/embed/V4ohNwQSw0k?si=iZ1UGnKsYNkcDqmQ"
                 }
                 loading="lazy"
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 className="rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
               ></iframe>
             </a>
@@ -196,7 +196,7 @@ export default function ServiceSection() {
                   "https://www.youtube.com/embed/Ip9zoA8g1pg?si=TcB-mdpH6u14SnUJ"
                 }
                 loading="lazy"
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allow="fullscreen; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 className="rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
               ></iframe>
             </a>
