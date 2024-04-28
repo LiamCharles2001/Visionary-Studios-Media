@@ -4,6 +4,3 @@ Icons
 https://icons.getbootstrap.com/
 
 ----------------------------------------------------------------
-Test:
-Preview image in the Layout.tsx
-----------------
