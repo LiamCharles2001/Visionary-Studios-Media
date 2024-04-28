@@ -5,7 +5,7 @@ const Socials = () => {
     <section className="relative">
       <Image
         fill
-        src="/assets/timeline_bot.jpg"
+        src="/assets/timeline.jpg"
         alt="Video Editing Service Logo"
         className="-z-20 brightness-75 object-cover"
         priority

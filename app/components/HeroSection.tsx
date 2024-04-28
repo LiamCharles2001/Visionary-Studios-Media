@@ -5,9 +5,17 @@ export default function Hero() {
     <section className="relative pt-[90px] lg:pt-[90px]">
       <Image
         fill
-        src="/assets/timeline.jpg"
+        src="/assets/hero.png"
         alt="Video Editing Service Logo"
         className="-z-20 brightness-75 object-cover"
+        priority
+        placeholder="empty"
+      />
+      <Image
+        fill
+        src="/assets/timeline.jpg"
+        alt="James"
+        className="-z-20 brightness-75 object-cover opacity-70"
         priority
         placeholder="empty"
       />
