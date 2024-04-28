@@ -100,7 +100,7 @@ const JamesSection = () => {
         </div>
         <div className="grid grid-cols-2 gap-4 mt-8">
           <Image
-            className="w-full rounded-lg shadow-2xl shadow-yellow-400 hover:scale-110 transition duration-500"
+            className="w-full rounded-lg shadow-2xl shadow-pink-600 hover:scale-110 transition duration-500"
             width={200}
             height={200}
             src="/assets/jamesediting.jpg"
@@ -111,7 +111,7 @@ const JamesSection = () => {
           />
 
           <Image
-            className="mt-4 w-full lg:mt-10 rounded-lg shadow-2xl shadow-primary-500 hover:scale-110 transition duration-500"
+            className="mt-4 w-full lg:mt-10 rounded-lg shadow-2xl shadow-orange-500 hover:scale-110 transition duration-500"
             width={200}
             height={200}
             src="/assets/portfolio_4.jpg"
