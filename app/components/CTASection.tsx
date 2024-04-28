@@ -8,7 +8,7 @@ const CTASection = () => {
             className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg hover:scale-110 transition duration-500"
             width={500}
             height={500}
-            src="/assets/pexels-10.jpg"
+            src="/assets/jamesyoutubers.jpg"
             alt="Video Editing"
             placeholder = 'empty'
           />

@@ -100,17 +100,17 @@ const JamesSection = () => {
         </div>
         <div className="grid grid-cols-2 gap-4 mt-8">
           <Image
-            className="w-full rounded-lg shadow-2xl shadow-teal-700 hover:scale-110 transition duration-500"
+            className="w-full rounded-lg shadow-2xl shadow-yellow-400 hover:scale-110 transition duration-500"
             width={200}
             height={200}
-            src="/assets/portfolio_2.jpg"
+            src="/assets/jamesediting.jpg"
             alt="James Smolak"
             priority
             placeholder = 'empty'
           />
 
           <Image
-            className="mt-4 w-full lg:mt-10 rounded-lg shadow-2xl shadow-indigo-700 hover:scale-110 transition duration-500"
+            className="mt-4 w-full lg:mt-10 rounded-lg shadow-2xl shadow-primary-500 hover:scale-110 transition duration-500"
             width={200}
             height={200}
             src="/assets/portfolio_4.jpg"
