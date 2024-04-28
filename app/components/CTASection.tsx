@@ -11,6 +11,7 @@ const CTASection = () => {
             src="/assets/jamesyoutubers.jpg"
             alt="Video Editing"
             placeholder = 'empty'
+            quality={60}
           />
         <div className="mt-4 md:mt-0">
           <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-white">

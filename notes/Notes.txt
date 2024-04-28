@@ -6,10 +6,4 @@ https://icons.getbootstrap.com/
 ----------------------------------------------------------------
 Test:
 Preview image in the Layout.tsx
-
-TODO:
-get new img for header / foot
-delete unused imgs
-
 ----------------
-

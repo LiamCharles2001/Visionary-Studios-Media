@@ -7,16 +7,18 @@ export default function Hero() {
         fill
         src="/assets/hero.png"
         alt="Video Editing Service Logo"
-        className="-z-20 brightness-75 object-cover"
+        className="-z-20 object-cover"
         priority
+        quality={60}
         placeholder="empty"
       />
       <Image
         fill
         src="/assets/timeline.jpg"
         alt="James"
-        className="-z-20 brightness-75 object-cover opacity-70"
+        className="-z-20 object-cover opacity-90 brightness-75"
         priority
+        quality={60}
         placeholder="empty"
       />
       <div className="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">

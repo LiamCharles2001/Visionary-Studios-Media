@@ -106,6 +106,7 @@ const JamesSection = () => {
             src="/assets/jamesediting.jpg"
             alt="James Smolak"
             priority
+            quality={60}
             placeholder = 'empty'
           />
 
@@ -116,6 +117,7 @@ const JamesSection = () => {
             src="/assets/portfolio_4.jpg"
             alt="Video Editing"
             priority
+            quality={60}
             placeholder = 'empty'
           />
         </div>

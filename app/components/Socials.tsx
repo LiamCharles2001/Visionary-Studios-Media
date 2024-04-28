@@ -5,11 +5,21 @@ const Socials = () => {
     <section className="relative">
       <Image
         fill
-        src="/assets/timeline.jpg"
+        src="/assets/hero.png"
         alt="Video Editing Service Logo"
-        className="-z-20 brightness-75 object-cover"
+        className="-z-20 object-cover"
         priority
-        placeholder = 'empty'
+        quality={60}
+        placeholder="empty"
+      />
+      <Image
+        fill
+        src="/assets/timeline.jpg"
+        alt="James"
+        className="-z-20 object-cover opacity-90 brightness-75"
+        priority
+        quality={60}
+        placeholder="empty"
       />
       <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6 ">
         <div className="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">

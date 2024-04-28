@@ -1,4 +1,4 @@
-const PortfolioSectionRevision = () => {
+const PortfolioSection = () => {
   return (
     <section className="bg-white dark:bg-zinc-900">
       <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
@@ -143,4 +143,4 @@ const PortfolioSectionRevision = () => {
   );
 };
 
-export default PortfolioSectionRevision;
+export default PortfolioSection;
