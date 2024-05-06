@@ -21,7 +21,7 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <head>
         <meta property="og:image" content="/favicon.ico" />
-        <link rel="icon" type="image/x-icon" href="/favicon.ico"></link>
+        <link rel="icon" type="image/x-icon" href="/logos/visionary-transparent-logo.png"></link>
         <link rel="manifest" href="/site.webmanifest" />
         <link
           href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css"
