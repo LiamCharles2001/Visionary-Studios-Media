@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
-        <meta property="og:image" content="/favicon.ico" />
+        <meta property="og:image" content="/logos/visionary-transparent-logo.png" />
         <link rel="icon" type="image/x-icon" href="/logos/visionary-transparent-logo.png"></link>
         <link rel="manifest" href="/site.webmanifest" />
         <link
